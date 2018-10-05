@@ -1,7 +1,7 @@
 # Telnet
 Used for login remotely in another systems. This can be used for transfering files from one system to another.
 
-# How to use 
+## How to use 
 
          To run it as a Server (or Receiver), execute command -
          
@@ -19,7 +19,7 @@ Used for login remotely in another systems. This can be used for transfering fil
                         python telnet.py -h
                        
                   
-# File Sharing
+## File Sharing
 
          Receiver Command -
                            
